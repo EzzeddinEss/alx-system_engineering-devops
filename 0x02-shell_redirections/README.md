@@ -19,3 +19,4 @@
 19- Replace all characters A and c from input to Z and e respectively.
 20- Without C, you would live in hiago
 21- Write a script that reverse its input
+22- script that displays all users and their home directories, sorted by users

@@ -16,3 +16,4 @@ a script that displays the 10 newest files in the current directory
 15- Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 17-Display all the lines in the file /etc/passwd that do not contain the pattern “bin
 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+19- Replace all characters A and c from input to Z and e respectively.

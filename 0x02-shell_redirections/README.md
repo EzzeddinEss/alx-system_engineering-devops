@@ -18,3 +18,4 @@ a script that displays the 10 newest files in the current directory
 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19- Replace all characters A and c from input to Z and e respectively.
 Without C, you would live in hiago
+21- Write a script that reverse its input

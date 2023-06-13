@@ -4,3 +4,4 @@ a script that creates an alias
 2. The path to success is to take massive, determined action 
 3. a script that counts the number of directories in the PATH
 a script that lists environment variables
+5. a script that lists all local variables and environment variables, and functions
